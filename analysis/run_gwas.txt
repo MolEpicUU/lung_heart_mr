@@ -1,0 +1,2 @@
+run_gwas -i combined_all -p phenofile.tsv -pn FVC,FEV1,FEV1FVC,Height,Current
+run_gwas -i combined_neversmokers -p phenofile_neversmokers.tsv -pn FVC,FEV1,FEV1FVC,Height,meanIMT2
